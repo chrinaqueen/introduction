@@ -1,0 +1,24 @@
+<doctypehtml>
+<html>
+<head>
+<title>ONLINE DATING</title>
+<meta>
+<link rel="stylesheet"href="index.css">
+</head>
+<p>
+disadvantages include:
+<ol type="alphabet">
+<Li>Get cheated on</li>
+<li>Leads to boredm when fella isn't online</li>
+<li>Leads to suspition on the other party</li>
+<li>Leads to stuipid arguements snd etc</li>
+</ol>
+</p>
+<p>
+Advantages include:
+<ol type=numbers">
+<li>love prevailles</li>
+<li>know each other well</li>
+</p>
+</body>
+</html>
